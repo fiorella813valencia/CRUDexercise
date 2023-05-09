@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Julian",
+      "lastName": "Casablancas",
+      "email": "julian.casablancas@gmail.com",
+      "dob": "1977-08-08T05:00:00.000Z",
+      "gender": "male",
+      "education": "val",
+      "college": "Stanford",
+      "experience": "12",
+      "package": "2",
+      "id": 1
+    },
+    {
+      "firstName": "Thom",
+      "lastName": "Yorke",
+      "email": "thom.yorke@gmail.com",
+      "dob": "1971-09-01T05:00:00.000Z",
+      "gender": "male",
+      "education": "val",
+      "college": "Excel college",
+      "experience": "30",
+      "package": "12",
+      "id": 2
+    },
+    {
+      "firstName": "Julian",
+      "lastName": "Casablancas",
+      "email": "julian.casablancas@gmail.com\t",
+      "dob": "2023-05-02T05:00:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "college": "fghfg",
+      "experience": "2",
+      "package": "3",
+      "id": 5
+    }
+  ]
+}

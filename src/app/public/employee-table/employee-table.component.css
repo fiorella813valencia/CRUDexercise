@@ -1,0 +1,10 @@
+.main-body{
+  max-width: 1248px;
+  padding-top: 30px;
+  margin: 0 auto;
+
+}
+
+.main-body mat-form-field{
+  width:100%;
+}
