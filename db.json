@@ -42,16 +42,40 @@
       "id": 2
     },
     {
-      "firstName": "Julian",
-      "lastName": "Casablancas",
-      "email": "julian.casablancas@gmail.com\t",
-      "dob": "2023-05-02T05:00:00.000Z",
+      "firstName": "Gustavo",
+      "lastName": "Cerati",
+      "email": "soda@gmail.com",
+      "dob": "2023-05-12T05:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "college": "La uva",
+      "experience": "12",
+      "package": "21",
+      "id": 6
+    },
+    {
+      "firstName": "Louis",
+      "lastName": "Tomlinson",
+      "email": "luis@gmail.com",
+      "dob": "2023-05-19T05:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "college": "hardwsfs",
+      "experience": "45",
+      "package": "12",
+      "id": 7
+    },
+    {
+      "firstName": "dfsf",
+      "lastName": "dfsd",
+      "email": "dsf",
+      "dob": "2023-05-17T05:00:00.000Z",
       "gender": "female",
       "education": "Intermediate",
-      "college": "fghfg",
-      "experience": "2",
-      "package": "3",
-      "id": 5
+      "college": "dfsf",
+      "experience": "1",
+      "package": "2",
+      "id": 8
     }
   ]
 }
